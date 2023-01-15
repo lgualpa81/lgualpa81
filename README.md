@@ -1,11 +1,12 @@
 ### 👋 Hi there! I'm Leonardo
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> &nbsp;About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" />&nbsp;About Me
 🏦 &nbsp;I'm a Backend Engineer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks
+💡 &nbsp;I like to explore new technologies and develop software solutions.
 
+---
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
