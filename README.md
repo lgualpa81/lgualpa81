@@ -1,10 +1,9 @@
-### 👋 Hi there! I'm Leonardo
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" />&nbsp;About Me
-🏦 &nbsp;I'm a Backend Engineer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" />&nbsp;Leonardo Gualpa (Backend Engineer | Cloud Engineer)
+___
+
+Experienced in building scalable and efficient solutions with expertise in backend development and cloud infrastructure. As a Backend Developer, I design and implement APIs, manage databases, and optimize performance using Node.js, Python, and Java. As a Cloud Engineer, I specialize in AWS cloud architecture and infrastructure as code (IaC) with Terraform. I have hands-on experience setting up scalable solutions, automating deployments through CI/CD pipelines, and ensuring high availability and security of cloud-based systems
 
 ---
 ### 🛠 &nbsp;Tech Stack
@@ -26,4 +25,13 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>    
 </p>
-      
+
+---
+
+### 📊 Statistics
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgualpa81&show_icons=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgualpa81&layout=compact)
+
+
+---
